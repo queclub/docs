@@ -1,3 +1,4 @@
+[README.md](https://github.com/github/docs/files/6566007/README.md)
 ---
 title: GitHub's products
 intro: 'An overview of {% data variables.product.prodname_dotcom %}''s products and pricing plans.'
@@ -25,31 +26,13 @@ topics:
 With {% data variables.product.prodname_free_team %} for user accounts, you can work with unlimited collaborators on unlimited public repositories with a full feature set, and on unlimited private repositories with a limited feature set.
 
 With {% data variables.product.prodname_free_user %}, your user account includes:
-- {% data variables.product.prodname_gcf %}
-- {% data variables.product.prodname_dependabot_alerts %}
-- Two-factor authentication enforcement
-- 2,000 {% data variables.product.prodname_actions %} minutes
-- 500MB {% data variables.product.prodname_registry %} storage
-
-### {% data variables.product.prodname_pro %}
-
-In addition to the features available with {% data variables.product.prodname_free_user %} for user accounts, {% data variables.product.prodname_pro %} includes:
-- {% data variables.contact.github_support %} via email
-- 3,000 {% data variables.product.prodname_actions %} minutes
-- 2GB {% data variables.product.prodname_registry %} storage
+- {% data16c999e8c71134401a78d4d46435517b2271d6ac
+mojombo@16c999e8c71134401a78[README.md](https://github.com/github/docs/files/6566010/README.md)name_registry %} storage
 - Advanced tools and insights in private repositories:
   - Required pull request reviewers
-  - Multiple pull request reviewers
-  - Auto-linked references
-  - {% data variables.product.prodname_pages %}
-  - Wikis
-  - Protected branches
-  - Code owners
-  - Repository insights graphs: Pulse, contributors, traffic, commits, code frequency, network, and forks
-
-### {% data variables.product.prodname_free_team %} for organizations
-
-With {% data variables.product.prodname_free_team %} for organizations, you can work with unlimited collaborators on unlimited public repositories with a full feature set, or unlimited private repositories with a limited feature set.
+  - Multiple pull r16c999e8c71134401a78d4d46435517b2271d6ac
+mojombo@16c999e8c71134401a78d4d46435517b2271d6ac
+mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac.prodname_free_team %} for organizations, you can work with unlimited collaborators on unlimited public repositories with a full feature set, or unlimited private repositories with a limited feature set.
 
 In addition to the features available with {% data variables.product.prodname_free_user %} for user accounts, {% data variables.product.prodname_free_team %} for organizations includes:
 - {% data variables.product.prodname_gcf %}
